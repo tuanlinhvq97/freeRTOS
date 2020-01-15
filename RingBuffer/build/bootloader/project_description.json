@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/zeno/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/zeno/Documents/FGA/RingBuffer/build/bootloader",
+    "config_file":        "/home/zeno/Documents/FGA/RingBuffer/sdkconfig",
+    "config_defaults":    "/home/zeno/Documents/FGA/RingBuffer/sdkconfig.defaults",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v3.2.2",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : " /home/zeno/esp/esp-idf/components/spi_flash/Kconfig /home/zeno/esp/esp-idf/components/esp32/Kconfig /home/zeno/esp/esp-idf/components/log/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : " /home/zeno/esp/esp-idf/components/partition_table/Kconfig.projbuild /home/zeno/esp/esp-idf/components/esptool_py/Kconfig.projbuild /home/zeno/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+    },
+    "build_components" : [ "soc", "spi_flash", "micro-ecc", "bootloader_support", "main", "partition_table", "esptool_py", "esp32", "log", "bootloader" ],
+    "build_component_paths" : [ "/home/zeno/esp/esp-idf/components/soc", "/home/zeno/esp/esp-idf/components/spi_flash", "/home/zeno/esp/esp-idf/components/micro-ecc", "/home/zeno/esp/esp-idf/components/bootloader_support", "/home/zeno/esp/esp-idf/components/bootloader/subproject/main", "/home/zeno/esp/esp-idf/components/partition_table", "/home/zeno/esp/esp-idf/components/esptool_py", "/home/zeno/esp/esp-idf/components/esp32", "/home/zeno/esp/esp-idf/components/log", "/home/zeno/esp/esp-idf/components/bootloader" ]
+}
