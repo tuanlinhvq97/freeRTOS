@@ -7,27 +7,7 @@
    CONDITIONS OF ANY KIND, either express or implied.
 */
 #include "ring_buffer.h"
-
-ringBuffer rBuffer;
-uint32_t dataRingBuff;
-void buff;
-
-static void pushTask(void* param)
-{
-    while(1)
-    {
-        dataRingBuff = rBuffer.head;
-        rBuffPush(&dataRingBuff, &rBuffer, 1000);
-    }
-}
-
-static void popTask(void* param)
-{
-    while(1)
-    {
-        rBuffPop(&dataRingBuff, &rBuffer, 2000);
-    }
-}
+#include "task"
 
 void app_main()
 {
