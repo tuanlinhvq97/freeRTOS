@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/zeno/Documents/FGA/RingBuffer/sdkconfig;-DIDF_PATH=/home/zeno/esp/esp-idf;-DEXTRA_COMPONENT_DIRS=/home/zeno/esp/esp-idf/components/bootloader;-GNinja;/home/zeno/esp/esp-idf/components/bootloader/subproject'
