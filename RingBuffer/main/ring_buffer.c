@@ -1,19 +1,20 @@
 #include "ring_buffer.h"
 
 
-void rBuffCreate(ringBuffer* rBuff, void* buff, uint16_t size, uint16_t elem_size)
+void rBuffCreate(ringBuffer* rBuff, void* buff, uint16_t rSize, uint16_t eSize)
 {
     buff = (uint8_t*)malloc(sizeof(rBuff->rBuffSize * rBuff->elemSize));
     rBuff->buff = buff;
-    rBuff->rBuffSize = size;
-    rBuff->elemSize = elem_size;
+    rBuff->rBuffSize = rSize;
+    rBuff->elemSize = eSize;
     rBuff->numElem = 0;
     rBuff->head = 0;
     rBuff->tail = 0;
 }
 
-void rBuffRelease(ringBuffer* rBuff)
+void rBuffRelease(ringBuffer* rBuff, uint8_t* buff)
 {
+    free(buff);
     free(rBuff);
 }
 
@@ -27,7 +28,7 @@ bool rBuffIsFull(ringBuffer* rBuff)
     return rBuff->numElem == rBuff->rBuffSize;
 }
 
-void rBuffPush(void* valIn, ringBuffer* rBuff, uint32_t timeout)
+void rBuffPush(uint32_t* valIn, ringBuffer* rBuff, uint32_t timeout)
 {
     xSemaphoreTake(xSem, timeout);
 
@@ -41,7 +42,7 @@ void rBuffPush(void* valIn, ringBuffer* rBuff, uint32_t timeout)
     xSemaphoreGive(xSem);
 }
 
-void rBuffPop(void* valOut, ringBuffer* rBuff, uint32_t timeout)
+void rBuffPop(uint32_t* valOut, ringBuffer* rBuff, uint32_t timeout)
 {
     xSemaphoreTake(xSem, timeout);
 
@@ -55,18 +56,26 @@ void rBuffPop(void* valOut, ringBuffer* rBuff, uint32_t timeout)
     xSemaphoreGive(xSem);
 }
 
-void setValue(void* dataIn, ringBuffer* rBuff, uint16_t index)
+void setValue(uint32_t* dataIn, ringBuffer* rBuff, uint16_t index)
 {
-    for(uint16_t i = 0; i < rBuff->elemSize; i++)
-    {
-        rBuff->buff[i + index] = *dataIn & (255 << (8 * (rBuff->elemSize - i - 1)));
-    }
+    rBuff->buff[index * 4] = *dataIn & (255 << 24);
+    rBuff->buff[index * 4 + 1] = *dataIn & (255 << 16);
+    rBuff->buff[index * 4 + 2] = *dataIn & (255 << 8);
+    rBuff->buff[index * 4 + 3] = *dataIn & 255;
+    // for(uint16_t i = 0; i < rBuff->elemSize; i++)
+    // {
+    //     rBuff->buff[i + index] = *dataIn & (255 << (8 * (rBuff->elemSize - i - 1)));
+    // }
 }
 
-void getValue(void* dataOut, ringBuffer* rBuff, uint16_t index)
+void getValue(uint32_t* dataOut, ringBuffer* rBuff, uint16_t index)
 {
-    for(uint16_t i = 0; i < rBuff->elemSize; i++)
-    {
-        *dataOut |= (rBuff->buff[i + index] << (8 * (rBuff->elemSize - i - 1)));
-    }
+    *dataOut = (rBuff->buff[index * 4]  << 24) 
+             | (rBuff->buff[index * 4 + 1]  << 16) 
+             | (rBuff->buff[index * 4 + 2]  << 8) 
+             | (rBuff->buff[index * 4 + 3]);
+    // for(uint16_t i = 0; i < rBuff->elemSize; i++)
+    // {
+    //     *dataOut |= (rBuff->buff[i + index] << (8 * (rBuff->elemSize - i - 1)));
+    // }
 }

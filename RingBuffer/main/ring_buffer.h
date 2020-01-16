@@ -25,15 +25,15 @@ void rBuffCreate(ringBuffer* rBuff,
                  uint16_t rBuffSize,
                  uint16_t elemSize);
 
-void rBuffRelease(ringBuffer* rBuff);
+void rBuffRelease(ringBuffer* rBuff, uint8_t* buff);
 
 bool rBuffIsEmpty(ringBuffer* rBuff);
 
 bool rBuffIsFull(ringBuffer* rBuff);
 
-// void setValue(uint32_t* data, ringBuffer* rBuff, uint16_t index);
+void setValue(uint32_t* data, ringBuffer* rBuff, uint16_t index);
 
-// void getValue(uint32_t* data, ringBuffer* rBuff, uint16_t index);
+void getValue(uint32_t* data, ringBuffer* rBuff, uint16_t index);
 
 void rBuffPush(uint32_t* valIn, ringBuffer* rBuf, uint32_t timeout);
 
