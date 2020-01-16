@@ -16,7 +16,7 @@ hwcrypto/aes.o: /home/zeno/esp/esp-idf/components/esp32/hwcrypto/aes.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/zeno/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h \
  /home/zeno/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
@@ -128,7 +128,7 @@ hwcrypto/aes.o: /home/zeno/esp/esp-idf/components/esp32/hwcrypto/aes.c \
 
 /home/zeno/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

@@ -17,7 +17,7 @@ port/http_parser.o: \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/reent.h \
@@ -64,7 +64,7 @@ port/http_parser.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

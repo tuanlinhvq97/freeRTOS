@@ -31,7 +31,7 @@ lib/http_auth.o: \
  /home/zeno/esp/esp-idf/components/esp32/include/rom/queue.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_interface.h \
  /home/zeno/esp/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
@@ -195,7 +195,7 @@ lib/http_auth.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

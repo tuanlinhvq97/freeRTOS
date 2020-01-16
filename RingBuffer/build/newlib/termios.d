@@ -1,5 +1,5 @@
 termios.o: /home/zeno/esp/esp-idf/components/newlib/termios.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/sys/termios.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ termios.o: /home/zeno/esp/esp-idf/components/newlib/termios.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/errno.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/reent.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/sys/termios.h:
 

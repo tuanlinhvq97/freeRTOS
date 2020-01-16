@@ -18,7 +18,7 @@ random.o: /home/zeno/esp/esp-idf/components/newlib/random.c \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/reent.h \
@@ -109,7 +109,7 @@ random.o: /home/zeno/esp/esp-idf/components/newlib/random.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

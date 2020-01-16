@@ -16,7 +16,7 @@ cxx_guards.o: /home/zeno/esp/esp-idf/components/cxx/cxx_guards.cpp \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -112,7 +112,7 @@ cxx_guards.o: /home/zeno/esp/esp-idf/components/cxx/cxx_guards.cpp \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -19,7 +19,7 @@ esp32/rtc_clk.o: /home/zeno/esp/esp-idf/components/soc/esp32/rtc_clk.c \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_dport_access.h \
- /home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/xtruntime.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -82,7 +82,7 @@ esp32/rtc_clk.o: /home/zeno/esp/esp-idf/components/soc/esp32/rtc_clk.c \
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_dport_access.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
 

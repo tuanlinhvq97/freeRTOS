@@ -10,7 +10,7 @@
 
 ringBuffer rBuffer;
 uint32_t dataRingBuff;
-void buff;
+uint8_t buff;
 
 static void pushTask(void* param)
 {

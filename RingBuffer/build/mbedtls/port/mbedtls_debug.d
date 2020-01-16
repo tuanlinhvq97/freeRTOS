@@ -19,7 +19,7 @@ port/mbedtls_debug.o: \
  /home/zeno/esp/esp-idf/components/log/include/esp_log.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -98,7 +98,7 @@ port/mbedtls_debug.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

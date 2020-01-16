@@ -19,7 +19,7 @@ esp-mqtt/lib/mqtt_msg.o: \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/mqtt_msg.h \
  /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h \
  /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform_esp32_idf.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -171,7 +171,7 @@ esp-mqtt/lib/mqtt_msg.o: \
 
 /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h:
 

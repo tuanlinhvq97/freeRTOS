@@ -4,7 +4,7 @@ sigmadelta.o: /home/zeno/esp/esp-idf/components/driver/sigmadelta.c \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/features.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -74,7 +74,7 @@ sigmadelta.o: /home/zeno/esp/esp-idf/components/driver/sigmadelta.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

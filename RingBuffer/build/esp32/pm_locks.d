@@ -27,7 +27,7 @@ pm_locks.o: /home/zeno/esp/esp-idf/components/esp32/pm_locks.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp32/pm.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/rtc.h \
@@ -139,7 +139,7 @@ pm_locks.o: /home/zeno/esp/esp-idf/components/esp32/pm_locks.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

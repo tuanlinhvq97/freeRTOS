@@ -1,6 +1,6 @@
 src/secure_boot_signatures.o: \
  /home/zeno/esp/esp-idf/components/bootloader_support/src/secure_boot_signatures.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -48,7 +48,7 @@ src/secure_boot_signatures.o: \
  /home/zeno/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /home/zeno/esp/esp-idf/components/newlib/include/limits.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 

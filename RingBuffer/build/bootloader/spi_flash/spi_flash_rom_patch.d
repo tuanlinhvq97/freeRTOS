@@ -10,7 +10,7 @@ spi_flash_rom_patch.o: \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
  /home/zeno/esp/esp-idf/components/esp32/include/rom/spi_flash.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h \
- /home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h
 
 /home/zeno/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 
@@ -32,5 +32,5 @@ spi_flash_rom_patch.o: \
 
 /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h:
 /home/zeno/esp/esp-idf/components/spi_flash/./spi_flash_rom_patch.c:

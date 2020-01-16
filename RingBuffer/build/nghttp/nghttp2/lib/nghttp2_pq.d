@@ -33,7 +33,7 @@ nghttp2/lib/nghttp2_pq.o: \
  /home/zeno/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h \
  /home/zeno/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h
 
@@ -103,7 +103,7 @@ nghttp2/lib/nghttp2_pq.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

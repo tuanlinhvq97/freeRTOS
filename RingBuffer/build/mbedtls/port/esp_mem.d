@@ -20,7 +20,7 @@ port/esp_mem.o: /home/zeno/esp/esp-idf/components/mbedtls/port/esp_mem.c \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
  /home/zeno/esp/esp-idf/components/heap/include/multi_heap.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -64,5 +64,5 @@ port/esp_mem.o: /home/zeno/esp/esp-idf/components/mbedtls/port/esp_mem.c \
 
 /home/zeno/esp/esp-idf/components/heap/include/multi_heap.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 /home/zeno/esp/esp-idf/components/mbedtls/port/esp_mem.c:

@@ -23,7 +23,7 @@ trax.o: /home/zeno/esp/esp-idf/components/xtensa-debug-module/trax.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
@@ -101,7 +101,7 @@ trax.o: /home/zeno/esp/esp-idf/components/xtensa-debug-module/trax.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

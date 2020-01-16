@@ -1,5 +1,5 @@
-main.o: /home/zeno/Documents/FGA/RingBuffer/main/main.c \
- /home/zeno/Documents/FGA/RingBuffer/main/ring_buffer.h \
+main.o: /home/zeno/Documents/FGA/freeRTOS/RingBuffer/main/main.c \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/main/ring_buffer.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdio.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/zeno/esp/esp-idf/components/newlib/include/newlib.h \
@@ -22,7 +22,7 @@ main.o: /home/zeno/Documents/FGA/RingBuffer/main/main.c \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -83,7 +83,7 @@ main.o: /home/zeno/Documents/FGA/RingBuffer/main/main.c \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/semphr.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/queue.h
 
-/home/zeno/Documents/FGA/RingBuffer/main/ring_buffer.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/main/ring_buffer.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdio.h:
 
@@ -129,7 +129,7 @@ main.o: /home/zeno/Documents/FGA/RingBuffer/main/main.c \
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -248,4 +248,4 @@ main.o: /home/zeno/Documents/FGA/RingBuffer/main/main.c \
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/semphr.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/queue.h:
-/home/zeno/Documents/FGA/RingBuffer/main/./main.c:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/main/./main.c:

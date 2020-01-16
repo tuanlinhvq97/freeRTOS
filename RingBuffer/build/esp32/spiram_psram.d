@@ -1,5 +1,5 @@
 spiram_psram.o: /home/zeno/esp/esp-idf/components/esp32/spiram_psram.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/string.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/zeno/esp/esp-idf/components/newlib/include/newlib.h \
@@ -75,7 +75,7 @@ spiram_psram.o: /home/zeno/esp/esp-idf/components/esp32/spiram_psram.c \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/spi_struct.h \
  /home/zeno/esp/esp-idf/components/driver/include/driver/periph_ctrl.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/string.h:
 

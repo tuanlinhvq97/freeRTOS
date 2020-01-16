@@ -17,7 +17,7 @@ esp-mqtt/lib/platform_esp32_idf.o: \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -163,7 +163,7 @@ esp-mqtt/lib/platform_esp32_idf.o: \
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

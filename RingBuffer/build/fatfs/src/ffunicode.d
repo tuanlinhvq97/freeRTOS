@@ -10,7 +10,7 @@ src/ffunicode.o: /home/zeno/esp/esp-idf/components/fatfs/src/ffunicode.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/reent.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -107,7 +107,7 @@ src/ffunicode.o: /home/zeno/esp/esp-idf/components/fatfs/src/ffunicode.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

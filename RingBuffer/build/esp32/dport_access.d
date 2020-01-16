@@ -16,7 +16,7 @@ dport_access.o: /home/zeno/esp/esp-idf/components/esp32/dport_access.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/lock.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdio.h \
@@ -129,7 +129,7 @@ dport_access.o: /home/zeno/esp/esp-idf/components/esp32/dport_access.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h:
 

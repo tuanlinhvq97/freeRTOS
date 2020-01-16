@@ -23,7 +23,7 @@ esp_adapter.o: /home/zeno/esp/esp-idf/components/esp32/esp_adapter.c \
  /home/zeno/esp/esp-idf/components/newlib/include/string.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
@@ -206,7 +206,7 @@ esp_adapter.o: /home/zeno/esp/esp-idf/components/esp32/esp_adapter.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -1,5 +1,5 @@
 stack_check.o: /home/zeno/esp/esp-idf/components/esp32/stack_check.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_system.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -58,7 +58,7 @@ stack_check.o: /home/zeno/esp/esp-idf/components/esp32/stack_check.c \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/touch_channel.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_system.h:
 

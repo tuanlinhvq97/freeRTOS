@@ -22,7 +22,7 @@ bt.o: /home/zeno/esp/esp-idf/components/bt/bt.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/zeno/esp/esp-idf/components/newlib/include/string.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/heap/include/esp_heap_caps.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -153,7 +153,7 @@ bt.o: /home/zeno/esp/esp-idf/components/bt/bt.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/heap/include/esp_heap_caps.h:
 

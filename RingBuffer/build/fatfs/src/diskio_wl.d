@@ -26,7 +26,7 @@ src/diskio_wl.o: /home/zeno/esp/esp-idf/components/fatfs/src/diskio_wl.c \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
@@ -152,7 +152,7 @@ src/diskio_wl.o: /home/zeno/esp/esp-idf/components/fatfs/src/diskio_wl.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

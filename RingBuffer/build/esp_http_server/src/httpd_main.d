@@ -38,7 +38,7 @@ src/httpd_main.o: \
  /home/zeno/esp/esp-idf/components/vfs/include/sys/ioctl.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/sys/select.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_task.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/hal.h \
@@ -209,7 +209,7 @@ src/httpd_main.o: \
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_task.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

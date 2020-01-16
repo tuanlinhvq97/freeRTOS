@@ -25,7 +25,7 @@ esp_ota_ops.o: /home/zeno/esp/esp-idf/components/app_update/esp_ota_ops.c \
  /home/zeno/esp/esp-idf/components/newlib/include/string.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
@@ -151,7 +151,7 @@ esp_ota_ops.o: /home/zeno/esp/esp-idf/components/app_update/esp_ota_ops.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

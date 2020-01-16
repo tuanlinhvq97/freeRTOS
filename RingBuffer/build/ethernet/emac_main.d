@@ -28,7 +28,7 @@ emac_main.o: /home/zeno/esp/esp-idf/components/ethernet/emac_main.c \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/assert.h \
  /home/zeno/esp/esp-idf/components/esp32/include/rom/gpio.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h \
@@ -206,7 +206,7 @@ emac_main.o: /home/zeno/esp/esp-idf/components/ethernet/emac_main.c \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/assert.h:
 

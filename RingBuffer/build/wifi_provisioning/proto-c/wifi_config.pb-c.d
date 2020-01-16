@@ -3,7 +3,7 @@ proto-c/wifi_config.pb-c.o: \
  /home/zeno/esp/esp-idf/components/wifi_provisioning/proto-c/wifi_config.pb-c.h \
  /home/zeno/esp/esp-idf/components/protobuf-c/protobuf-c/protobuf-c/protobuf-c.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/zeno/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -33,7 +33,7 @@ proto-c/wifi_config.pb-c.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

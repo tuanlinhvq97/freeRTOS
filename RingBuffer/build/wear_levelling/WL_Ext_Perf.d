@@ -24,7 +24,7 @@ WL_Ext_Perf.o: \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
@@ -87,7 +87,7 @@ WL_Ext_Perf.o: \
 
 /home/zeno/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h:
 

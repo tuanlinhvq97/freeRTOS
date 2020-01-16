@@ -1,5 +1,5 @@
 int_wdt.o: /home/zeno/esp/esp-idf/components/esp32/int_wdt.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -90,7 +90,7 @@ int_wdt.o: /home/zeno/esp/esp-idf/components/esp32/int_wdt.c \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_int_wdt.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdint.h:
 

@@ -24,7 +24,7 @@ cache_err_int.o: /home/zeno/esp/esp-idf/components/esp32/cache_err_int.c \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -130,7 +130,7 @@ cache_err_int.o: /home/zeno/esp/esp-idf/components/esp32/cache_err_int.c \
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

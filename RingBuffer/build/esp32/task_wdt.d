@@ -24,7 +24,7 @@ task_wdt.o: /home/zeno/esp/esp-idf/components/esp32/task_wdt.c \
  /home/zeno/esp/esp-idf/components/newlib/include/alloca.h \
  /home/zeno/esp/esp-idf/components/newlib/include/string.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/zeno/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/zeno/esp/esp-idf/components/esp32/include/xtensa/hal.h \
@@ -149,7 +149,7 @@ task_wdt.o: /home/zeno/esp/esp-idf/components/esp32/task_wdt.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

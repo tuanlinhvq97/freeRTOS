@@ -1,5 +1,5 @@
 intr_alloc.o: /home/zeno/esp/esp-idf/components/esp32/intr_alloc.c \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -84,7 +84,7 @@ intr_alloc.o: /home/zeno/esp/esp-idf/components/esp32/intr_alloc.c \
  /home/zeno/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_ipc.h
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/newlib/include/stdint.h:
 

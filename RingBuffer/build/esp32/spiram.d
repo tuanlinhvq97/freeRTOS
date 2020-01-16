@@ -20,7 +20,7 @@ spiram.o: /home/zeno/esp/esp-idf/components/esp32/spiram.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdio.h \
@@ -137,7 +137,7 @@ spiram.o: /home/zeno/esp/esp-idf/components/esp32/spiram.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h:
 

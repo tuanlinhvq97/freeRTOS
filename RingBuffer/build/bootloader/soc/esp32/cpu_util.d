@@ -12,7 +12,7 @@ esp32/cpu_util.o: /home/zeno/esp/esp-idf/components/soc/esp32/cpu_util.c \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h \
  /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
- /home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h
 
 /home/zeno/esp/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -40,5 +40,5 @@ esp32/cpu_util.o: /home/zeno/esp/esp-idf/components/soc/esp32/cpu_util.c \
 
 /home/zeno/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/bootloader/../include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/bootloader/../include/sdkconfig.h:
 /home/zeno/esp/esp-idf/components/soc/esp32/cpu_util.c:

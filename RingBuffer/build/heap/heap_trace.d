@@ -18,7 +18,7 @@ heap_trace.o: /home/zeno/esp/esp-idf/components/heap/heap_trace.c \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/heap/include/esp_heap_trace.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdint.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -126,7 +126,7 @@ heap_trace.o: /home/zeno/esp/esp-idf/components/heap/heap_trace.c \
 
 /home/zeno/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/heap/include/esp_heap_trace.h:
 

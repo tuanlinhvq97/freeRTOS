@@ -1,7 +1,7 @@
 mbedtls/library/x509write_csr.o: \
  /home/zeno/esp/esp-idf/components/mbedtls/mbedtls/library/x509write_csr.c \
  /home/zeno/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/zeno/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/zeno/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -47,7 +47,7 @@ mbedtls/library/x509write_csr.o: \
 
 /home/zeno/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

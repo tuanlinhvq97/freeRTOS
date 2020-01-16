@@ -10,7 +10,7 @@ library/ssl_x509.o: \
  /home/zeno/esp/esp-idf/components/openssl/include/internal/ssl_methods.h \
  /home/zeno/esp/esp-idf/components/openssl/include/internal/ssl_dbg.h \
  /home/zeno/esp/esp-idf/components/openssl/include/platform/ssl_opt.h \
- /home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h \
+ /home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h \
  /home/zeno/esp/esp-idf/components/openssl/include/platform/ssl_port.h \
  /home/zeno/esp/esp-idf/components/esp32/include/esp_types.h \
  /home/zeno/esp/esp-idf/components/newlib/include/sys/cdefs.h \
@@ -67,7 +67,7 @@ library/ssl_x509.o: \
 
 /home/zeno/esp/esp-idf/components/openssl/include/platform/ssl_opt.h:
 
-/home/zeno/Documents/FGA/RingBuffer/build/include/sdkconfig.h:
+/home/zeno/Documents/FGA/freeRTOS/RingBuffer/build/include/sdkconfig.h:
 
 /home/zeno/esp/esp-idf/components/openssl/include/platform/ssl_port.h:
 
